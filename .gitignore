@@ -1,0 +1,8 @@
+*.pyc
+.vscode
+*/build/*
+*.egg-info*
+*.o
+*.so.o
+.so
+
